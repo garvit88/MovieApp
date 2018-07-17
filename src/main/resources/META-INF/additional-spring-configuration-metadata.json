@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.logging.pattern.console",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging.pattern.console'"
+  },
+  {
+    "name": "spring.logging.level.org.springframework.web",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging.level.org.springframework.web'"
+  },
+  {
+    "name": "spring.logging.level.com.stackroute.controllers",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging.level.com.stackroute.controllers'"
+  },
+  {
+    "name": "spring.logging.level.org.hibernate",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging.level.org.hibernate'"
+  },
+  {
+    "name": "spring.logging.file",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging.file'"
+  }
+]}
